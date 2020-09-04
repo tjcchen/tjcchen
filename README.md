@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Yang Chen. Welcome to my github page!
 
 <!--
 **tjcchen/tjcchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
