@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yang Chen. You can also call me Andy. Welcome to my github page~ ✨
+My name is Yang Chen. You can also call me Andy. Welcome to my github page ✨
