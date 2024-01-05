@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-We are currently building our ***IELTS speaking*** product. If you are a test taker or interested, please give it a shot!
+We are currently building our ***IELTS speaking*** product. If you are a test taker or interested, please give it a try!
 
 Any suggestion or feedback warmly welcomed.
 
