@@ -2,7 +2,9 @@
 
 We are currently building our ***IELTS speaking*** product.
 
-If you are a potential/real test taker or interested, please give it a try! Any suggestion or feedback warmly welcomed.
+If you are a potential/real test taker or interested, please give it a try!
+
+Any suggestion or feedback warmly welcomed. Reach out to us by: support@ieltsduck.com
 
 ✨ ***IELTS Duck*** ✨: https://ieltsduck.com
 
