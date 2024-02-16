@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-We are currently building our ***IELTS speaking*** product.
+We are currently building our **IELTS speaking** product.
 
 If you are a potential/real test taker or interested, please give it a try!
 
 Any suggestion or feedback warmly welcomed. Reach out to us by: support@ieltsduck.com
 
-***IELTS Duck***: https://ieltsduck.com
+**IELTS Duck**: https://ieltsduck.com
 
 <!--
 **tjcchen/tjcchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
