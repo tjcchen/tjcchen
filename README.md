@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-We are currently building our **IELTS speaking** product.
+We are currently building our **IELTS speaking** product with the latest AI technology.
 
 If you are a potential/real test taker or interested, please give it a try!
 
-Any suggestion or feedback warmly welcomed. Reach out to us by: support@ieltsduck.com
+Any suggestion or feedback is warmly welcomed. Reach out to us by: support@ieltsduck.com
 
 **IELTS Duck**: https://ieltsduck.com
 
