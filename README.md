@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-We are currently building our **IELTS speaking** product with the latest AI technology.
+We are currently building our **IELTS speaking** product with the latest **AI technology**.
 
 If you are a potential/real test taker or interested, please give it a try!
 
