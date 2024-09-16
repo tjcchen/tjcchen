@@ -8,8 +8,6 @@ Any suggestion or feedback is warmly welcomed. Reach out to us by: support@ielts
 
 **IELTS Duck**: https://ieltsduck.com
 
-**IELTS AI Agent**: https://agent.ieltsduck.com
-
 <!--
 **tjcchen/tjcchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
