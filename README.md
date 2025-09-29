@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 We are currently building our **IELTS speaking** product with the latest **AI technology**.
 
@@ -22,5 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- My name is Yang Chen. You can also call me Andy. Welcome to my Github page ✨ -->
