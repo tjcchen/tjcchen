@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 We are currently building our **IELTS speaking** product with the latest **AI technology**.
 
 If you are a potential/real test taker or interested, please give it a try!
@@ -8,7 +9,6 @@ Any suggestion or feedback is warmly welcomed. Reach out to us by: support@ielts
 
 **IELTS Duck**: https://ieltsduck.com
 
-<!--
 **tjcchen/tjcchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
